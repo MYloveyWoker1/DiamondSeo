@@ -1,0 +1,9 @@
+name: "10 อันดับ pgslot เว็บตรงอันดับ 1 สล็อตเว็บตรงแตกหนัก ฝากถอนไม่มีขั้นต่ำ เบทน้อยก็รวยได้"
+author: NondmSeo
+description: "forgameing."
+runs:
+  using: docker
+  image: 
+branding:
+  icon: "git-merge"
+  color: "blue"
